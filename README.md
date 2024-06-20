@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1MiXg6DMDXyHGixweo0hkDo3UJFMSKvaz/view?usp=shari
 
 This research presents a task-oriented and semantics-aware communication framework for augmented reality (TSAR) to enhance communication efficiency and effectiveness in 6G, which includes semantic information extraction, task-oriented semantics-aware wireless communication, avatar pose recovery and rendering. The whole system is based on a targeting machine and a provision machine, the experimental platform details as
 
-
+xxx
 
 <img src="./Experimen.png" width = "300" height = "200" alt="Experimental Platform" align=center />
 
